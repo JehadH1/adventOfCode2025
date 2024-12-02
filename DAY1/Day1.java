@@ -1,7 +1,6 @@
 package DAY1;
 
 import java.io.File;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 import java.util.Vector;
